@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ac5cba5.css",
+    "main.js": "/static/js/main.cac784d7.js",
+    "static/media/InkedScreenshot_20230419-222133_Gallery_LI.jpg": "/static/media/InkedScreenshot_20230419-222133_Gallery_LI.4d9b26f207a3efa08053.jpg",
+    "static/media/Screenshot_20230428-104308_Samsung Internet.jpg": "/static/media/Screenshot_20230428-104308_Samsung Internet.8d39b04398966000d790.jpg",
+    "static/media/Screenshot_20230429-103133_Video Player.jpg": "/static/media/Screenshot_20230429-103133_Video Player.4acd1c8c3a2e136aa13c.jpg",
+    "static/media/Screenshot_20230429-110201_Samsung Internet.jpg": "/static/media/Screenshot_20230429-110201_Samsung Internet.b2c797ec69f313eeca84.jpg",
+    "index.html": "/index.html",
+    "main.1ac5cba5.css.map": "/static/css/main.1ac5cba5.css.map",
+    "main.cac784d7.js.map": "/static/js/main.cac784d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac5cba5.css",
+    "static/js/main.cac784d7.js"
+  ]
+}
